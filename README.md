@@ -1,2 +1,2 @@
-# photography
-Photography website and gallery
+#Photography
+Stunning Photography website and gallery!!
